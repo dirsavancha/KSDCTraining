@@ -1,0 +1,28 @@
+Inheitance:
+
+  def:
+  
+  Acquring properties from one class to another class is know as Inheritance.
+  
+  Types :
+  
+  1.Single Level Inheritance
+  2.Multi level Inheritance
+  3.Multi level Inheritance
+  4.Hybrid Inheritance
+  
+  1.Single Level inheritance:
+  
+  A child class (sub class) inherits properties from its parent class.
+   
+   
+   2.Multi Level:
+   
+   Achild class inherits properties from another child class which behaves as a parent 
+   
+   3.Multiple Inheritance:
+   
+   A child class inheriting properties from two parents 
+   
+   4. Hybrid:
+   
