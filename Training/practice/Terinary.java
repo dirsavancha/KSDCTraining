@@ -10,6 +10,7 @@ System.out.println(result);
 System.out.println(ch);
 	int i=(2<3)?1:0;
 System.out.println(i);
+System.out.println(i);
 
 
 }
